@@ -1,21 +1,23 @@
-# Infosys-Data-visualization-Internship
-This repository contains all the project files, dashboards, and documentation related to the Infosys Data Visualization Internship, where Power BI was used to derive actionable insights from business data.
+Infosys Data Visualization Internship - Power BI
+This repository showcases the work done during the Infosys Data Visualization Internship, leveraging Power BI to transform raw data into actionable insights through interactive dashboards and analytical reporting.
 
-Key Highlights:
-Interactive Dashboards: Comprehensive dashboards built to visualize complex datasets.
-Data Analysis: Advanced data transformation and modeling techniques using Power Query and DAX.
-Key Features:
-Data cleaning and preparation for better visualization.
-Dynamic filters, slicers, and drill-downs for enhanced interactivity.
-Custom KPIs and measures to track business performance.
-Contents of the Repository:
-Power BI Files (.pbix): Fully functional project dashboards.
-Documentation: Detailed explanations of the project, including goals, methodologies, and insights derived.
-Data Files: Sample datasets (sanitized) used during the project.
-Code Snippets: Relevant DAX and Power Query formulas used.
-Presentations: Slides and reports for project review.
-Skills Demonstrated:
+📂 Contents
+Power BI Dashboards (.pbix): Fully developed and interactive dashboards.
+Sample Datasets: Cleaned and sanitized data used for analysis.
+DAX and Power Query Scripts: Custom formulas and transformations.
+Documentation: Step-by-step explanation of the project.
+Reports and Presentations: Key findings and recommendations.
+🛠️ Key Features
+Data Cleaning & Transformation: Using Power Query for preparing raw data.
+Advanced Analytics: Implemented DAX formulas for dynamic calculations.
+Interactive Visualizations: Built dashboards with filters, slicers, and drill-through capabilities.
+Business Insights: Provided actionable recommendations for decision-making.
+💡 Skills Demonstrated
 Data Visualization with Power BI
-Business Intelligence
-Data Cleaning and Transformation
-Analytical Reporting
+Data Cleaning & Modeling
+DAX (Data Analysis Expressions)
+Business Intelligence Reporting
+🚀 How to Use
+Clone this repository to your local machine.
+Open .pbix files using Power BI Desktop.
+Explore dashboards and modify them based on your dataset.
