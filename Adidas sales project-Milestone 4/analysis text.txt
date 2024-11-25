@@ -1,0 +1,36 @@
+
+overall sales and profit:
+top performer=2020-->West
+              2021-->West
+
+
+Quarter wise top profit by year and region:
+2020--->Q3---> South 76%
+2021--->Q3---> South 41%
+
+
+
+Region wise Retailer analysis of profit and sales:
+Top performer: 2020---> West gear[2/5 repeated] profit-28.8M----sales-87.7M
+               2021---> foot Locker[2/5 repeated] profit-50M----sales-131M
+
+
+Product category analysis by region with sales and profit:
+Top performer: 2020---> Street Footwear[3/5 repeated] profit-17.5M----sales-45.39M
+               2021---> Street Footwear[4/5 repeated] profit-86M------sales-209M
+
+
+sales type:
+in-store:
+top performer----> 2020--->West
+                   2021--->Northeast
+online:
+top performer----->2020--->West
+                   2021---->southeast
+
+Outlet:
+top performer----->2020--->Northeast
+                   2021--->west-->to be note that 1M profit is less to the south and was high in west only
+
+
+
